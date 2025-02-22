@@ -1,5 +1,12 @@
 # Sales-Customer-Dashboard-Tableau-
 
+<image src='https://camo.githubusercontent.com/5efb3d8c5fe7eea9ff0de00fe58bd17784b4297f105e34967a1259a7467da4c5/68747470733a2f2f77616c6c7061706572636176652e636f6d2f77702f7770383834323937332e706e67'></image>
+
+Welcome to the Tableau Dashboard Repository of Jisoo
+
+## Introduction
+This repository hosts a variety of Tableau projects and dashboards.
+
 
 <div class='tableauPlaceholder' id='viz1740212230965' style='position: relative'><noscript><a href='#'><img alt='Customer Dashboard ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Sa&#47;SalesCustomerDashboard_17399815600650&#47;CustomerDashboard&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='SalesCustomerDashboard_17399815600650&#47;CustomerDashboard' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Sa&#47;SalesCustomerDashboard_17399815600650&#47;CustomerDashboard&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                
 
